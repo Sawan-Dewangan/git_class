@@ -15,4 +15,4 @@
 - stash
 - reset
 */
-console.log("Hello Sawan");
+console.log("Namaste JavaScript");
